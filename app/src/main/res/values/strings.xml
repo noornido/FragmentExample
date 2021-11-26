@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IslamiApp</string>
+    <string name="profile_screen_label">Profile Screen</string>
+    <string name="settings_screen_label">Settings</string>
+    <string name="profile_fragment_label">Profile Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
